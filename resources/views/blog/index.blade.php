@@ -10,11 +10,9 @@
     </div>
 
     @if(session()->has('message'))
-        <div class="w-4/5 m-auto mt-10 pl-2">
-            <p class="w-2/6 mb-4 text-gray-50 bg-green-500 rounded-2xl py-4">
-                {{ session()->get('message') }}
-            </p>
-        </div>
+    <div class="alert alert-success" role="alert">
+        {{ session()->get('message') }}
+      </div>
     @endif
 
     @if(Auth::check())
