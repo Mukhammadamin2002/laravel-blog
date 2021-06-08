@@ -88,7 +88,9 @@
         </div>
 
     </div>
-    <p class="w-25 w-4/5 pb-3 m-auto text-xs text-gray-100 pt-6">
-        Copyright &copy; 2020-2022 Code with me! All rights Reserved
-    </p>
+    <h4 class="w-25 w-4/5 pb-3 m-auto text-center text-lg text-gray-100 pt-6">
+        Copyright&copy; 2020-2022. Created By Mukhammadamin
+    </h4>
+    <h4 class="w-25 w-4/5 pb-3 m-auto text-center text-lg text-gray-100 pt-6">All rights reserved!</h4>
+
 </footer>
